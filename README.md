@@ -4,12 +4,6 @@
 
 ### *Doğal Probiyotik Gücü*
 
-[![Sağlık](https://img.shields.io/badge/Kategori-Sağlık-brightgreen?style=for-the-badge)](https://github.com)
-[![Beslenme](https://img.shields.io/badge/Beslenme-Tavsiye-orange?style=for-the-badge)](https://github.com)
-[![Probiyotik](https://img.shields.io/badge/Probiyotik-Zengin-blue?style=for-the-badge)](https://github.com)
-
-### 📍 Projeyi Ziyaret Edin
-### **👉 [https://github.com/iremm5255/deneme](https://github.com/iremm5255/deneme) 👈**
 
 </div>
 
